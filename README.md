@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Jiawen WEI, currently a PhD student at National University of Singapore, advised by Prof. Gianmarco Mengaldo. 
+
+My research interests include interpretability of machine/deep learning, time series pattern discovery, deep reinforcement learning.
+
+🔗 More information on our group website: www.mathexlab.com
+
 <!--
 **Gwen-JW/Gwen-JW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
