@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Jiawen-Wei-4)
+[![Research gate](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=flat&logo=googlescholar&colorB=616161)](https://scholar.google.com/citations?user=Cc-4rGwAAAAJ&hl=en)
+
+
 I am Jiawen WEI, currently a PhD student at National University of Singapore, advised by Prof. Gianmarco Mengaldo. 
 
 My research interests include interpretability of machine/deep learning, time series pattern discovery, deep reinforcement learning.
