@@ -8,7 +8,7 @@ I am Jiawen WEI, currently a PhD student at National University of Singapore, ad
 
 My research interests include the interpretability of machine/deep learning models for time series classification and regression tasks, time series pattern discovery, theme discovery in text classification, and deep reinforcement learning.
 
-🔗 More information on my personal page [Gwen's Log](https://home.jiawennw.com/) and our [MatheXLab](www.mathexlab.com) research group website!
+🔗 More information on my personal page [Gwen's Log](https://home.jiawennw.com/) and our [MatheXLab](https://www.mathexlab.com/) research group website!
 
 <!--
 **Gwen-JW/Gwen-JW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
